@@ -5,7 +5,7 @@ Multi-User Support: Separate functionalities for Admin, Seller, and Customer rol
 
 Product Management: Sellers can add, update, and delete products.
 
-Cart and Checkout: Customers can add products to their cart and proceed to checkout.
+Cart and Checkout: Customers can add products to their cart and proceed to checkout and after user place an order he will get a confirmation email.
 
 OTP Verification: Secure user registration with OTP validation.
 
